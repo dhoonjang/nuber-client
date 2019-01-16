@@ -1,5 +1,7 @@
 #nuber-client
 
+client for Nuber Clone
+
 ## Screens:
 
 ### Logged Out:
@@ -15,6 +17,7 @@
     - [ ] Ride
     - [ ] Edit Account
     - [ ] Settings
-    - [ ] Saved Places
+    - [ ] Places
     - [ ] Add Place
+    - [ ] Find Address
     - [ ] Challenge: Ride History
