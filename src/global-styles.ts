@@ -22,6 +22,9 @@ const GlobalStyle = createGlobalStyle`
   h1,h2,h3,h4,h5,h6{
     font-family:'Maven Pro', sans-serif;
   }
+  #element::-webkit-scrollbar {
+    display: none;
+  }
 `;
 
 export default GlobalStyle;
